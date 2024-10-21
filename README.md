@@ -27,12 +27,6 @@ Here are some of the technologies I love working with:
 
 ---
 
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakBinici&show_icons=true&theme=radical)
-
----
-
 ### 🌟 Top Repositories
 
 [![Virtual Assistant](https://github-readme-stats.vercel.app/api/pin/?username=BurakBinici&repo=VirtualAssistant&theme=radical)](https://github.com/BurakBinici/VirtualAssistant)
