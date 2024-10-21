@@ -28,6 +28,18 @@ Here are some of the technologies I love working with:
 
 ---
 
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="120"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" width="120"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" width="120"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width="120"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" width="120"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="120"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="120"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" width="120"/>
+
+
+---
+
 ### 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakBinici&show_icons=true&theme=radical)
@@ -53,6 +65,7 @@ Here's a fun project I've been working on:
 
 - **[Ege ROV](https://github.com/BurakBinici/EgeROV)**: Ege ROV Team, which is a part of the Ege Defense Technologies Community (Ege SAVTEK) operating within the Ege University, carries out studies in the field of defense technologies. The team has participated in the TEKNOFEST Unmanned Underwater Systems competition every year since 2020. The aim of the Ege ROV team is to produce an autonomous underwater vehicle that can be used for various purposes in underwater research, challenging missions, military and civilian applications. .
 
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakBinici&hide_progress=true)
 
