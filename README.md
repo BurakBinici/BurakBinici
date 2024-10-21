@@ -50,7 +50,7 @@ Here are some of the technologies I love working with:
 
 Here's a fun project I've been working on:
 
-- **[Project Name](https://github.com/BurakBinici/project_name)**: A short description of your project.
+- **[Ege ROV](https://github.com/BurakBinici/EgeROV)**: Ege ROV Team, which is a part of the Ege Defense Technologies Community (Ege SAVTEK) operating within the Ege University, carries out studies in the field of defense technologies. The team has participated in the TEKNOFEST Unmanned Underwater Systems competition every year since 2020. The aim of the Ege ROV team is to produce an autonomous underwater vehicle that can be used for various purposes in underwater research, challenging missions, military and civilian applications. .
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakBinici&hide_progress=true)
