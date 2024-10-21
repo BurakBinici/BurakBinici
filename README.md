@@ -35,16 +35,15 @@ Here are some of the technologies I love working with:
 
 ### 🌟 Top Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your_github_username&repo=repo_name_1&theme=radical)](https://github.com/your_github_username/repo_name_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your_github_username&repo=repo_name_2&theme=radical)](https://github.com/your_github_username/repo_name_2)
+[![Virtual Assistant](https://github-readme-stats.vercel.app/api/pin/?username=BurakBinici&repo=VirtualAssistant&theme=radical)](https://github.com/BurakBinici/VirtualAssistant)
 
 ---
 
 ### 🌐 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-binici)
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-- [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+- [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.binici055@gmail.com)
 
 ---
 
