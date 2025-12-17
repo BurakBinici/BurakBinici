@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer always looking for new 
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on: **Ege ROV Software Team Lead**
 - 🌱 I’m currently learning: **ROS**
 - 👯 I’m looking to collaborate on: **Open source, new tech, or any interesting project**
 
