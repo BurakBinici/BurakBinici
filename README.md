@@ -35,14 +35,6 @@ I enjoy building intelligent systems that can *see, understand, and act* in the 
 
 ---
 
-## 🌟 Featured Projects
-
-[![Virtual Assistant](https://github-readme-stats.vercel.app/api/pin/?username=BurakBinici&repo=VirtualAssistant&theme=radical)](https://github.com/BurakBinici/VirtualAssistant)
-
-> 🧠 AI-powered virtual assistant focusing on **NLP, intent understanding, and intelligent response generation**.
-
----
-
 ## 🌊 Robotics & Autonomous Systems
 
 - **Ege ROV Team – Software Team Lead**
